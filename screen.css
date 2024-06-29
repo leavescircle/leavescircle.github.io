@@ -143,7 +143,7 @@ section{
 	padding:60px 0
 }
 header{
-	color:#000; /* Changed to black from #fff */
+	color:#fff; /* Changed to black from #fff */
 	padding:15px 0;
 	position:fixed;
 	width:100%;
@@ -176,7 +176,7 @@ header.header-background .light-logo{
 	display:none
 }
 header a{
-	color:#000; /* Changed to black from #fff */
+	color:#fff; /* Changed to black from #fff */
 	text-decoration:none;
 	z-index:1;
 	position:relative;
