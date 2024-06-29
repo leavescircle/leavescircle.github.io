@@ -143,7 +143,7 @@ section{
 	padding:60px 0
 }
 header{
-	color:#fff;
+	color:#000; /* Changed to black from #fff */
 	padding:15px 0;
 	position:fixed;
 	width:100%;
@@ -176,7 +176,7 @@ header.header-background .light-logo{
 	display:none
 }
 header a{
-	color:#fff;
+	color:#000; /* Changed to black from #fff */
 	text-decoration:none;
 	z-index:1;
 	position:relative;
@@ -203,7 +203,7 @@ header .company-name img{
 	width:auto
 }
 .content{
-	background:#fff
+	background:#000 /* Changed to black */
 }
 .info img{
 	max-height:650px
