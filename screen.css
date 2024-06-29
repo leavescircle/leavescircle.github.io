@@ -161,7 +161,7 @@ header.header-background{
 	text-shadow:none
 }
 header.header-background a{
-	color:#333
+	color:#fff
 }
 @media (min-width:620px){
 	header.header-background a:hover{
