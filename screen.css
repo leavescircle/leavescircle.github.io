@@ -155,7 +155,7 @@ header .container{
 }
 header.header-background{
 	background-color:rgba(0,0,0,.95); /* changed from rgba(255,255,255,.95); */
-	color: #fff; /*#333;/*
+	color:#333;
 	box-shadow:0 0 10px rgba(0,0,0,.2);
 	transition:background-color .2s ease;
 	text-shadow:none
